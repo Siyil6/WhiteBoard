@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="735ff5af-2b90-471e-ab06-a3c5c9c8e16d" name="Changes" comment="Listener.java">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/manager/createserver$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/manager/createserver$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/manager/createserver$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/manager/createserver.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/manager/createserver.class" afterDir="false" />
+    <list default="true" id="735ff5af-2b90-471e-ab06-a3c5c9c8e16d" name="Changes" comment="frameOpenFile  frameSaveFile">
+      <change beforePath="$PROJECT_DIR$/bin/guest/joinserver.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/guest/joinserver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/guest/joinserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/guest/joinserver.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666547931492</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="frameOpenFile  frameSaveFile">
+      <created>1666575273718</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666575273718</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,6 +107,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Listener.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Listener.java" />
+    <MESSAGE value="frameOpenFile  frameSaveFile" />
+    <option name="LAST_COMMIT_MESSAGE" value="frameOpenFile  frameSaveFile" />
   </component>
 </project>

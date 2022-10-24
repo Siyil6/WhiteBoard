@@ -86,10 +86,21 @@ public class joinserver {
 		sendBtn.setBounds(10, 471, 89, 23);
 		frmWhiteboard.getContentPane().add(sendBtn);
 		
-		JComboBox fileBox = new JComboBox();
-		fileBox.setToolTipText("filebox");
-		fileBox.setBounds(10, 147, 89, 22);
-		frmWhiteboard.getContentPane().add(fileBox);
+		JButton colorBtn = new JButton("Color");
+		colorBtn.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+			}
+		});
+		colorBtn.setBounds(10, 147, 89, 23);
+		frmWhiteboard.getContentPane().add(colorBtn);
+		
+		JButton textBtn = new JButton("Text");
+		textBtn.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+			}
+		});
+		textBtn.setBounds(10, 181, 89, 23);
+		frmWhiteboard.getContentPane().add(textBtn);
 		
 
 		
