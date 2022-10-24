@@ -166,8 +166,16 @@ public class createserver {
 			public void actionPerformed(ActionEvent e) {
 			}
 		});
-		colorBtn.setBounds(10, 185, 89, 23);
+		colorBtn.setBounds(10, 180, 89, 23);
 		frmWhiteboard.getContentPane().add(colorBtn);
+
+		JButton textBtn = new JButton("Text");
+		textBtn.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+			}
+		});
+		textBtn.setBounds(10, 210, 89, 23);
+		frmWhiteboard.getContentPane().add(textBtn);
 
 
 

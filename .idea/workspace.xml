@@ -46,7 +46,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.createserver">
     <configuration name="createserver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="manager.createserver" />
       <module name="whiteboard" />
@@ -60,9 +60,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="joinserver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="guest.joinserver" />
+      <module name="whiteboard" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="guest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.createserver" />
+        <item itemvalue="Application.joinserver" />
       </list>
     </recent_temporary>
   </component>
