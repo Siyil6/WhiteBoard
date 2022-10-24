@@ -161,6 +161,14 @@ public class createserver {
 		fileBox.setBounds(10, 147, 89, 22);
 		frmWhiteboard.getContentPane().add(fileBox);
 
+		JButton colorBtn = new JButton("Color");
+		colorBtn.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+			}
+		});
+		colorBtn.setBounds(10, 185, 89, 23);
+		frmWhiteboard.getContentPane().add(colorBtn);
+
 
 
 

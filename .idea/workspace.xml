@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="735ff5af-2b90-471e-ab06-a3c5c9c8e16d" name="Changes" comment="frameOpenFile  frameSaveFile">
-      <change beforePath="$PROJECT_DIR$/bin/guest/joinserver.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/guest/joinserver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/guest/joinserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/guest/joinserver.java" afterDir="false" />
+    <list default="true" id="735ff5af-2b90-471e-ab06-a3c5c9c8e16d" name="Changes" comment="joinserver.class">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/whiteboard/guest/joinserver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/whiteboard/guest/joinserver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/whiteboard/manager/RunServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/whiteboard/manager/createserver$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/whiteboard/manager/createserver$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/whiteboard/manager/createserver$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/whiteboard/manager/createserver$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/whiteboard/manager/createserver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/whiteboard/manager/createserver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/manager/createserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/manager/createserver.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666575273718</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="joinserver.class">
+      <created>1666576407698</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666576407698</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -108,6 +120,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Listener.java" />
     <MESSAGE value="frameOpenFile  frameSaveFile" />
-    <option name="LAST_COMMIT_MESSAGE" value="frameOpenFile  frameSaveFile" />
+    <MESSAGE value="joinserver.class" />
+    <option name="LAST_COMMIT_MESSAGE" value="joinserver.class" />
   </component>
 </project>
